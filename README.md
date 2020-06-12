@@ -33,7 +33,7 @@ npm run dev
 
 #### Endpoints
 
-Here we have four endpoints that is used by the Mobile App and Website:
+Here we have four endpoints that are used by the Mobile App and Website:
 
 ##### http:<span></span>//localhost:3333/points
 
