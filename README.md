@@ -44,7 +44,7 @@ Here we have four endpoints that are used by the Mobile App and Website:
 ##### http:<span></span>//localhost:3333/points/:id
 
 1. Method: GET
-2. Description: List a especific point based on point id
+2. Description: List a specific point based on point id
 
 ##### http:<span></span>//localhost:3333/points
 
@@ -65,7 +65,7 @@ After installing the dependencies, just run the following command:
 npm start
 ```
 
-Make sure to have the backend running on background, otherwise you won't be able to make any http request.
+Make sure to have the backend running on background, otherwise you won't be able to make any http request to the backend.
 
 ### 📱 Mobile / Mobile Folder
 
