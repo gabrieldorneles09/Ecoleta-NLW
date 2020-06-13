@@ -9,7 +9,7 @@ This project has the objective to allow people to register Collect Points of man
 
 ### Dependencies Installation 
 
-How to install all development dependencies on OS X and Linux, for Windows Users use 'dir' instead of 'cd':
+How to install all development dependencies:
 ```
 cd ./web
 npm install
